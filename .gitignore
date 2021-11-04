@@ -1,0 +1,14 @@
+
+.vs/
+
+SamuraiApp.Data/bin/
+
+SamuraiApp.Data/obj/
+
+SamuraiApp.Domain/bin/
+
+SamuraiApp.Domain/obj/
+
+SamuraiAPI/bin/
+
+SamuraiAPI/obj/
